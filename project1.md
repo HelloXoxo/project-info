@@ -33,27 +33,27 @@ Here are some examples of past projects:
 
 Schedule
 --------
-### Tuesday - January 26 ###
+### Tuesday - February 26 ###
 -  **Kick-Off Presentation 7pm**
 
-### Thursday - January 28 ###
+### Thursday - February 28 ###
 - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
 
-### Saturday - February 2 ###
+### Saturday - March 2 ###
 - **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
 - **15:00h** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
 
-### Tuesday - February 5 ###
+### Tuesday - March 5 ###
 - **Coding Kata** - [Clocky Mc Clock-Face](https://www.codewars.com/kata/clocky-mc-clock-face)
 
-### Thursday - February 7 ###
+### Thursday - March 7 ###
 -  **Continue working on the project**
 
 
-### Saturday - February 9 ###
+### Saturday - March 9 ###
 -  **Continue working on the project**
 - **15:00h** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
@@ -62,10 +62,10 @@ Schedule
   but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
-### Tuesday - February 12 ###
+### Tuesday - March 12 ###
 -  **Continue working on the project**
 
-### Thursday - February 14 ###
+### Thursday - March 14 ###
 -  **Final details on the project and presentations**
 - **20:00h** - **Project #1 Presentations** <br>
   Finally, on Friday it's time for your final presentation.
